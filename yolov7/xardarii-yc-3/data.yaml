@@ -1,0 +1,16 @@
+names:
+- abdurrehman
+- maheen
+- shahmir
+- umber
+- zohaib
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: xardarii-yc
+  url: https://universe.roboflow.com/xardariii/xardarii-yc/dataset/3
+  version: 3
+  workspace: xardariii
+test: ../test/images
+train: xardarii-yc-3/train/images
+val: xardarii-yc-3/valid/images
