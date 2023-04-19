@@ -71,6 +71,11 @@ The best way to check is if you open your windows explorer or any folder and rig
 
 un-comment any of the following model you want to choose. I have already selected the best model so just run "bash", make sure you're in the yolov7 folder if not run the cd yolov7 command and then the first wget from the codes below.
 
+
+####Performance
+Here's a performance difference between each YOLOv7 model:
+![image](https://user-images.githubusercontent.com/108223404/233029810-f5dc7dcf-b6ed-477c-a05b-aa3aa46ce4c6.png)
+
 Make sure to double check the path in the code below after -P. In my case, I have placed the yolov7 foler in the following path "F:/YOLORepository/yolov7".
 
 ```bash
